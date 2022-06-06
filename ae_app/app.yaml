@@ -1,0 +1,3 @@
+runtime: python37
+env_variables:
+  CLOUD_STORAGE_BUCKET: ge_data_docs_ge-presentation
